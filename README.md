@@ -1,6 +1,3 @@
-明白了！以下是你可以直接复制粘贴到 GitHub 网页上的 `README` 内容：
-
-```md
 # 1st_Doc
 
 ## Project Overview
