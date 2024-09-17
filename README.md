@@ -57,8 +57,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 If you have any questions or issues with the project, feel free to contact me via [GitHub Issues](https://github.com/Arafat-ninja/1st_Doc/issues).
-```
-
-你可以直接在 GitHub 页面上的 README 编辑框中粘贴此内容并保存。
-
-如果有任何问题或需要进一步修改，随时告诉我！
