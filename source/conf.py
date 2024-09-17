@@ -6,10 +6,11 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'my_first_doc'
+project = 'Automated Library Setup Documentation'
 copyright = '2024, arafat anwar'
 author = 'arafat anwar'
 release = 'v0.0.1'
+
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
